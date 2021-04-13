@@ -1,4 +1,4 @@
-package java_board;
+package mbti_gui;
 
 import java.awt.BorderLayout;
 import java.awt.Color;
